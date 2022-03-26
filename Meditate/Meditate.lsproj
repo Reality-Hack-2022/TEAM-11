@@ -3,7 +3,7 @@
     "document_id": "FJcaYEcen5E-40u1zFuJ",
     "original_document_id": "FJcaYEcen5E-40u1zFuJ",
     "version": "29",
-    "lastChanged": "1648317484403",
+    "lastChanged": "1648319301444",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -317,13 +317,6 @@
                         "Cloud Resources",
                         "Textures",
                         "cloud_face_sad"
-                    ],
-                    [
-                        "Cloud VFX Resources"
-                    ],
-                    [
-                        "Cloud VFX Resources",
-                        "Textures"
                     ],
                     [
                         "Cloud VFX Resources",
@@ -1104,11 +1097,65 @@
                         "elephant_med_01_defaultMat1_normal"
                     ],
                     [
-                        "Fountain VFX Resources"
+                        "Examples Resources"
                     ],
                     [
-                        "Fountain VFX Resources",
+                        "Examples Resources",
+                        "World Object 3D Text Example"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "Materials"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "Materials",
+                        "hello_world"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
                         "Textures"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "Textures",
+                        "polka"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "WorldObjectController"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "WorldObjectController",
+                        "Materials"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "WorldObjectController",
+                        "Materials",
+                        "ground_grid"
+                    ],
+                    [
+                        "Examples Resources",
+                        "World Object 3D Text Example",
+                        "WorldObjectController",
+                        "Materials",
+                        "touch_collision"
+                    ],
+                    [
+                        "Fonts"
+                    ],
+                    [
+                        "Fonts",
+                        "Staatliches-Regular"
                     ],
                     [
                         "Fountain VFX Resources",
@@ -1119,10 +1166,6 @@
                         "Fountain VFX Resources",
                         "Textures",
                         "fx_water_splash_2x2_distortion"
-                    ],
-                    [
-                        "Fountain VFX Resources",
-                        "VFX"
                     ],
                     [
                         "Fountain VFX Resources",
@@ -1308,20 +1351,9 @@
                         "World Mesh"
                     ],
                     [
-                        "SDF Glitter Resources"
-                    ],
-                    [
-                        "SDF Glitter Resources",
-                        "Textures"
-                    ],
-                    [
                         "SDF Glitter Resources",
                         "Textures",
                         "torus_faceted SDF"
-                    ],
-                    [
-                        "SDF Glitter Resources",
-                        "VFX"
                     ],
                     [
                         "SDF Glitter Resources",
@@ -1331,6 +1363,10 @@
                     [
                         "Scripts",
                         "AnimationController [EDIT ME]"
+                    ],
+                    [
+                        "Scripts",
+                        "Behavior"
                     ],
                     [
                         "Scripts",
@@ -1351,9 +1387,6 @@
                         "PlaySound"
                     ],
                     [
-                        "Smoke VFX Resources"
-                    ],
-                    [
                         "Smoke VFX Resources",
                         "Textures"
                     ],
@@ -1370,6 +1403,9 @@
                         "Smoke VFX Resources",
                         "VFX",
                         "smoke_vfx"
+                    ],
+                    [
+                        "Text3D Default"
                     ],
                     [
                         "Textures"
@@ -4453,6 +4489,9 @@
                         "Woofy-Final"
                     ],
                     [
+                        "World Object 3D Text Example"
+                    ],
+                    [
                         "WorldObjectController",
                         "Behavior"
                     ],
@@ -4665,6 +4704,7 @@
                     "1648240387385491:3076125",
                     "1648249232871497:536938",
                     "1648249672153809:795890",
+                    "1648251466728653:1783515",
                     "1648251467104683:1783710",
                     "1648251653969500:1921182",
                     "1648251865781485:2013781",
@@ -4709,10 +4749,10 @@
             "selectionSetList": ""
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "67b408c3f402b8480985bbeceee0fdbc",
+            "icon_hash": "f4c584c6a9c9fdd5abf6f8426af70c05",
             "icon_path": "icon.png",
             "hints": [
-                "lens_hint_come_closer"
+                ""
             ],
             "lens": "Bloom",
             "applicability": "10",
@@ -4774,7 +4814,7 @@
             "foldedOwnerSceneObjects": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1648318877820473:9810604"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -12073,6 +12113,70 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "1550",
+                    "uid": "1648317890834679:8701710",
+                    "name": "Files\/File850.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "1551",
+                    "uid": "1648317891407317:8701774",
+                    "name": "Files\/File851",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "1552",
+                    "uid": "1648317892294247:8701839",
+                    "name": "Files\/File853",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "1553",
+                    "uid": "1648317893445678:8701997",
+                    "name": "Files\/File855",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "1554",
+                    "uid": "1648317893755769:8702208",
+                    "name": "Files\/File857.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "1555",
+                    "uid": "1648317895627349:8702244",
+                    "name": "Files\/File860.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "1556",
+                    "uid": "1648318016247728:8957732",
+                    "name": "World Object 3D Text Example",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "1557",
+                    "uid": "1648318877820473:9810604",
+                    "name": "Files\/File864",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -12314,7 +12418,8 @@
                 "215": "1648315941076511:7494086",
                 "216": "1648315941083536:7494091",
                 "217": "1648315941088110:7494096",
-                "218": "1648317059307727:8161147"
+                "218": "1648317059307727:8161147",
+                "219": "1648318877727915:9810580"
             }
         },
         "LayerComponent": {
@@ -13744,6 +13849,70 @@
                 {
                     "k": "849",
                     "v": "Files\/File849.oprfb"
+                },
+                {
+                    "k": "850",
+                    "v": "Files\/File850.ttf"
+                },
+                {
+                    "k": "851",
+                    "v": "Files\/File851"
+                },
+                {
+                    "k": "852",
+                    "v": "Files\/File852.lsmat"
+                },
+                {
+                    "k": "853",
+                    "v": "Files\/File853"
+                },
+                {
+                    "k": "854",
+                    "v": "Files\/File854.lsmat"
+                },
+                {
+                    "k": "855",
+                    "v": "Files\/File855"
+                },
+                {
+                    "k": "856",
+                    "v": "Files\/File856.lsmat"
+                },
+                {
+                    "k": "857",
+                    "v": "Files\/File857.pvr"
+                },
+                {
+                    "k": "858",
+                    "v": "Files\/File858.png"
+                },
+                {
+                    "k": "859",
+                    "v": "Files\/File859.png"
+                },
+                {
+                    "k": "860",
+                    "v": "Files\/File860.js"
+                },
+                {
+                    "k": "861",
+                    "v": "Files\/File861.pvr"
+                },
+                {
+                    "k": "862",
+                    "v": "Files\/File862.oprfb"
+                },
+                {
+                    "k": "863",
+                    "v": "Files\/File863.oprfb"
+                },
+                {
+                    "k": "864",
+                    "v": "Files\/File864"
+                },
+                {
+                    "k": "865",
+                    "v": "Files\/File865.lsmat"
                 }
             ]
         },
@@ -14374,6 +14543,66 @@
                     {
                         "k": "13039",
                         "v": "..\/AdditionalFiles\/flower\/Materials\/Material.lsmat"
+                    },
+                    {
+                        "k": "26577",
+                        "v": "Fonts"
+                    },
+                    {
+                        "k": "26578",
+                        "v": "Fonts\/Staatliches-Regular.ttf"
+                    },
+                    {
+                        "k": "26579",
+                        "v": "Examples Resources"
+                    },
+                    {
+                        "k": "26580",
+                        "v": "Examples Resources\/World Object 3D Text Example"
+                    },
+                    {
+                        "k": "26581",
+                        "v": "Examples Resources\/World Object 3D Text Example\/WorldObjectController"
+                    },
+                    {
+                        "k": "26582",
+                        "v": "Examples Resources\/World Object 3D Text Example\/WorldObjectController\/Materials"
+                    },
+                    {
+                        "k": "26583",
+                        "v": "Examples Resources\/World Object 3D Text Example\/WorldObjectController\/Materials\/touch_collision.lsmat"
+                    },
+                    {
+                        "k": "26584",
+                        "v": "Examples Resources\/World Object 3D Text Example\/WorldObjectController\/Materials\/ground_grid.lsmat"
+                    },
+                    {
+                        "k": "26585",
+                        "v": "Examples Resources\/World Object 3D Text Example\/Materials"
+                    },
+                    {
+                        "k": "26586",
+                        "v": "Examples Resources\/World Object 3D Text Example\/Materials\/hello_world.lsmat"
+                    },
+                    {
+                        "k": "26587",
+                        "v": "Examples Resources\/World Object 3D Text Example\/Textures"
+                    },
+                    {
+                        "k": "26588",
+                        "v": "Examples Resources\/World Object 3D Text Example\/Textures\/polka.png"
+                    },
+                    {
+                        "k": "26589",
+                        "v": "Scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "26590",
+                        "v": "World Object 3D Text Example.oprfb"
+                    },
+                    {
+                        "k": "26591",
+                        "v": "Text3D Default.lsmat"
                     }
                 ],
                 "hashes": [
@@ -14395,15 +14624,15 @@
                     },
                     {
                         "k": "10",
-                        "v": "ff1e2449b673d98b66eee720d5673e8c"
+                        "v": "5de989e8c19a6785f966dd5d3df65be2"
                     },
                     {
                         "k": "11",
-                        "v": "b15184d03496a9898c9d20d93a9b64d0"
+                        "v": "7c2f91c3887384e9ceb39063c4ca6b65"
                     },
                     {
                         "k": "12",
-                        "v": "3cd275922b35a6d909988fb6fbfcf7d9"
+                        "v": "3dbfcc8dda4bb9849d031393afc8b5c9"
                     },
                     {
                         "k": "13",
@@ -14695,7 +14924,7 @@
                     },
                     {
                         "k": "12897",
-                        "v": "200ec297ce237e6c48dab45e4f91d47c"
+                        "v": "9568d4a86ac1be06826415f97ad00493"
                     },
                     {
                         "k": "12899",
@@ -14715,7 +14944,7 @@
                     },
                     {
                         "k": "12905",
-                        "v": "c0e030e7a89897aa25142847012e70ca"
+                        "v": "2ec564d602a1ff8f48b28d2401c5d92e"
                     },
                     {
                         "k": "12906",
@@ -14883,7 +15112,7 @@
                     },
                     {
                         "k": "12973",
-                        "v": "4c04ab05d4d8e171e0e9b2c871ff4283"
+                        "v": "43da3c5a7a6094fdd88ddd07e5656fe9"
                     },
                     {
                         "k": "12975",
@@ -14911,7 +15140,7 @@
                     },
                     {
                         "k": "12988",
-                        "v": "7636a172b84da76997ae9d31ae4c870f"
+                        "v": "2dfe07ce037b681a3a1d1b2cea4fbc97"
                     },
                     {
                         "k": "12989",
@@ -14927,15 +15156,15 @@
                     },
                     {
                         "k": "12995",
-                        "v": "e6563b1a747c5de7892a07f38e6a9d62"
+                        "v": "f51cc3b43866909eb342846cc6a2eb23"
                     },
                     {
                         "k": "12996",
-                        "v": "317a95cdae0a2910d76a90fcafe47b3d"
+                        "v": "127ee6bb6a8519d84277abcfd6dc6d24"
                     },
                     {
                         "k": "12997",
-                        "v": "64562c7ba988fe65cd1fa751eb53c3aa"
+                        "v": "6e96f8132e87c6e34dcb53ab908a159b"
                     },
                     {
                         "k": "12998",
@@ -14947,7 +15176,7 @@
                     },
                     {
                         "k": "13003",
-                        "v": "41e3ae6bf2e7e5d8b022e60061f2673e"
+                        "v": "6721b3059b3e276fe0488aee0c00d819"
                     },
                     {
                         "k": "13004",
@@ -15062,6 +15291,38 @@
                         "v": "9c26a74a75a64f86db6ca65c05ff028b"
                     },
                     {
+                        "k": "26578",
+                        "v": "d5746e3b20453d6cee99ab27a0bdf949"
+                    },
+                    {
+                        "k": "26583",
+                        "v": "cfbc8cd2d8560521247b07f26df91ac5"
+                    },
+                    {
+                        "k": "26584",
+                        "v": "8f3e3bf57b73414424c9ddf2a2e480e6"
+                    },
+                    {
+                        "k": "26586",
+                        "v": "3ce2f807095e7870761e2f48c4ed1dd7"
+                    },
+                    {
+                        "k": "26588",
+                        "v": "4f2829908dc84cb6fe490bfb44f98288"
+                    },
+                    {
+                        "k": "26589",
+                        "v": "8a2e1caa02fec833c3aa6675fa1e07e4"
+                    },
+                    {
+                        "k": "26590",
+                        "v": "6202e0b2452b9ca21f0f220c7192d007"
+                    },
+                    {
+                        "k": "26591",
+                        "v": "5bec866768e5ba781c2e750883a5a458"
+                    },
+                    {
                         "k": "26674",
                         "v": "e9167dc2c6b4be6840fd00390a21b633"
                     },
@@ -15133,15 +15394,15 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-03-26T13:28:17",
+                        "lastModified": "2022-03-26T14:23:51",
                         "name": "Public",
-                        "hash": "9454365f0c57247df31f48a989f378d2",
+                        "hash": "0c6727e4289fcc817e009f9db13f89fe",
                         "children": [
                             {
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T10:15:30",
                                 "name": "Butterfly",
-                                "hash": "3c61bf82bb5b7ba2c990b346e4c9c20f",
+                                "hash": "a46fad8ddd5ad138ee4ae677d92ec663",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -15167,15 +15428,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T13:18:15",
+                                        "lastModified": "2022-03-26T14:23:49",
                                         "name": "Material [EDIT ME]",
-                                        "hash": "af789836d94a590b214c06b74cb36587",
+                                        "hash": "9ead5219932a761a851f4dc8f2f6daed",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:15",
+                                                "lastModified": "2022-03-26T14:23:49",
                                                 "name": "Wing.lsmat",
-                                                "hash": "518a6d25d0c9fcd5a403769fa4c55627",
+                                                "hash": "7d775eba4628c28b246ce5df44ccd22b",
                                                 "children": ""
                                             },
                                             {
@@ -15469,7 +15730,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T10:55:32",
                                 "name": "Cloud VFX Resources",
-                                "hash": "68cc2898fcbe268fee8073edae2c8a17",
+                                "hash": "9a33a95bba021789aeac1b1beada777c",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -15510,15 +15771,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T13:18:16",
+                                        "lastModified": "2022-03-26T14:23:49",
                                         "name": "VFX",
-                                        "hash": "1ae9145d7adf9ac70302520d969231e3",
+                                        "hash": "7969cf6d169ac8fff5d304d646b19deb",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:16",
+                                                "lastModified": "2022-03-26T14:23:49",
                                                 "name": "clouds_vfx.lsvfx",
-                                                "hash": "17e4e9b7066d09affb75cff4d2d4b04a",
+                                                "hash": "ca4594ab465475b782a16ba25192dbea",
                                                 "children": ""
                                             },
                                             {
@@ -15541,15 +15802,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-26T13:18:15",
+                                "lastModified": "2022-03-26T14:23:49",
                                 "name": "Other",
-                                "hash": "0f3dadd4fadc9aaf46450a1db09f9988",
+                                "hash": "babeac00a742f60831a483a444c29966",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T13:18:14",
+                                        "lastModified": "2022-03-26T14:23:49",
                                         "name": "Graph Occluder.lsmat",
-                                        "hash": "5cc248f3771eadbbfabd9865d4833c3b",
+                                        "hash": "08cd6faa7fd447bfa9cc0d4732aaa50b",
                                         "children": ""
                                     },
                                     {
@@ -15774,7 +16035,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T08:47:09",
                                 "name": "WorldObjectController",
-                                "hash": "6605fe429de0de99dcb6fdaeda4ff5f3",
+                                "hash": "8b40d9c659b8781773da9dae8c1ea3dd",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -15800,29 +16061,29 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T13:18:14",
+                                        "lastModified": "2022-03-26T14:23:49",
                                         "name": "Materials",
-                                        "hash": "ff257a4d4d91b5ffd34a8dda1d074396",
+                                        "hash": "113525fdb31c2b747fdf71f56fa53e42",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:13",
+                                                "lastModified": "2022-03-26T14:23:48",
                                                 "name": "ground_grid.lsmat",
-                                                "hash": "9e3110e7afee6ccdda29a8d0fce46ead",
+                                                "hash": "ca5051ba05b517a9b14dd60d8630d348",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:14",
+                                                "lastModified": "2022-03-26T14:23:49",
                                                 "name": "touch_collision.lsmat",
-                                                "hash": "1848a487c6edcea58a7b988bc694ab14",
+                                                "hash": "bbd5bf9ad7a295bb701554de94750101",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:13",
+                                                "lastModified": "2022-03-26T14:23:48",
                                                 "name": "graph_matte_shadow.lsmat",
-                                                "hash": "68920031f4f9f7369ddec90ab5a72d65",
+                                                "hash": "e3007e2376a977970e17b71d1dfd9634",
                                                 "children": ""
                                             },
                                             {
@@ -15909,6 +16170,124 @@
                                 "children": ""
                             },
                             {
+                                "isFolder": "true",
+                                "lastModified": "2022-03-26T14:04:51",
+                                "name": "Examples Resources",
+                                "hash": "2e74eaabe7c7d7dc4e00882cc6f1a15c",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-03-26T14:04:53",
+                                        "name": "World Object 3D Text Example",
+                                        "hash": "b95fceaa84b0c13034fef85b9ddaf6b8",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-03-26T14:04:53",
+                                                "name": "Textures",
+                                                "hash": "0b7bd7def8159a7b00067557eea1b997",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-26T14:04:50",
+                                                        "name": "polka.png",
+                                                        "hash": "4f2829908dc84cb6fe490bfb44f98288",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-26T14:04:53",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-03-26T14:23:51",
+                                                "name": "Materials",
+                                                "hash": "1c36a9fcd2b3834f2d9bf195905bff02",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-26T14:23:51",
+                                                        "name": "hello_world.lsmat",
+                                                        "hash": "08754015ae28f9724e7747ef013f828e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-26T14:04:53",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-03-26T14:04:51",
+                                                "name": "WorldObjectController",
+                                                "hash": "7a58bd4bf14fc852e7769b5dafcf2ee6",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2022-03-26T14:23:50",
+                                                        "name": "Materials",
+                                                        "hash": "326dcd4dc88f3584671e58ef5ff965a3",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-03-26T14:23:50",
+                                                                "name": "ground_grid.lsmat",
+                                                                "hash": "8da204fd97bb31bb2e654d96f81bea3a",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-03-26T14:05:03",
+                                                                "name": "touch_collision.lsmat",
+                                                                "hash": "cfbc8cd2d8560521247b07f26df91ac5",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-03-26T14:04:51",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-26T14:04:51",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-03-26T14:04:51",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-26T14:04:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
                                 "isFolder": "false",
                                 "lastModified": "2022-03-26T11:27:24",
                                 "name": "flower.fbx",
@@ -15946,9 +16325,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-26T13:19:21",
+                                "lastModified": "2022-03-26T14:04:55",
                                 "name": "Scripts",
-                                "hash": "3c54a72bc3d4720fcfa249a026470fe7",
+                                "hash": "51067f870139b1d06719fcb89a541f8e",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -15995,6 +16374,13 @@
                                     },
                                     {
                                         "isFolder": "false",
+                                        "lastModified": "2022-03-26T14:04:50",
+                                        "name": "Behavior.js",
+                                        "hash": "8a2e1caa02fec833c3aa6675fa1e07e4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
                                         "lastModified": "2022-03-26T08:47:09",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -16006,7 +16392,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T10:56:11",
                                 "name": "Fountain VFX Resources",
-                                "hash": "9d4cc8b83c75fcec71f28c5ddf8ac07d",
+                                "hash": "25dcbe2a301afebc8ee4c1534c877f6e",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -16039,29 +16425,29 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T13:18:17",
+                                        "lastModified": "2022-03-26T14:23:50",
                                         "name": "VFX",
-                                        "hash": "f60595ef3fbb24093a41ddbbb044d4c5",
+                                        "hash": "3bc0060024138c67bcbc338781c267de",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:17",
+                                                "lastModified": "2022-03-26T14:23:50",
                                                 "name": "fountain_splash_vfx.lsvfx",
-                                                "hash": "257f0a0c0ba18e0c9daa1113b691cdc0",
+                                                "hash": "7e74959bd65825bc2619089ba1aee6eb",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:17",
+                                                "lastModified": "2022-03-26T14:23:50",
                                                 "name": "fountain_waterdrop_vfx.lsvfx",
-                                                "hash": "d24c0d8cf81a6f34ac4d5d8b6d34407a",
+                                                "hash": "20be20d9cb97c309182c2601d58b313a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:17",
+                                                "lastModified": "2022-03-26T14:23:50",
                                                 "name": "fountain_distortion_vfx.lsvfx",
-                                                "hash": "5de13c37c3a26265324aaf0b5786723d",
+                                                "hash": "faa14e31351f08db44281fa704f1dcd4",
                                                 "children": ""
                                             },
                                             {
@@ -16086,7 +16472,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T10:56:26",
                                 "name": "Smoke VFX Resources",
-                                "hash": "a78d8f5f81bccc5fba3d6c0fbe4a4d7a",
+                                "hash": "db0cb88ac67afa95e3f8fbdb06e90e09",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -16112,15 +16498,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T13:18:18",
+                                        "lastModified": "2022-03-26T14:23:50",
                                         "name": "VFX",
-                                        "hash": "c021adcff50e7cc977033880ee47a305",
+                                        "hash": "efd205e90a6ef3fa5de884e104efa178",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:18",
+                                                "lastModified": "2022-03-26T14:23:50",
                                                 "name": "smoke_vfx.lsvfx",
-                                                "hash": "23db248b4d5492e46e0e19d195ff5bdd",
+                                                "hash": "b9de4a12524104759fa4ced6a007e96f",
                                                 "children": ""
                                             },
                                             {
@@ -16140,6 +16526,42 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-03-26T14:04:50",
+                                "name": "Fonts",
+                                "hash": "6cdfb846431202b20f70381a6a79edf2",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-26T14:04:50",
+                                        "name": "Staatliches-Regular.ttf",
+                                        "hash": "d5746e3b20453d6cee99ab27a0bdf949",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-26T14:04:50",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-26T14:23:51",
+                                "name": "Text3D Default.lsmat",
+                                "hash": "053dbd158d6ca72e1aa0614cb268272f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-26T14:06:56",
+                                "name": "World Object 3D Text Example.oprfb",
+                                "hash": "6202e0b2452b9ca21f0f220c7192d007",
+                                "children": ""
                             },
                             {
                                 "isFolder": "true",
@@ -16453,7 +16875,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T13:19:47",
                                 "name": "SDF Glitter Resources",
-                                "hash": "205525171938db730652744d9da98ec2",
+                                "hash": "fdc68edc7c036ff705238c548a17ccee",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -16479,15 +16901,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T13:18:16",
+                                        "lastModified": "2022-03-26T14:23:49",
                                         "name": "VFX",
-                                        "hash": "e02b611d5945d85661fa464f14fef6a2",
+                                        "hash": "e74b4fccd0c7ce43ed1eb6a456b38536",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T13:18:16",
+                                                "lastModified": "2022-03-26T14:23:49",
                                                 "name": "VFX SDF Glitter.lsvfx",
-                                                "hash": "1a3e4b1a522d7729aff2180e7ae492a2",
+                                                "hash": "56c59f4a5ad2e0c90cb449a471b4f164",
                                                 "children": ""
                                             },
                                             {
@@ -16576,7 +16998,33 @@
                                         "originalId": "34",
                                         "publicId": "3",
                                         "source": "",
-                                        "additional": ""
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
                                     },
                                     {
                                         "name": "plane",
@@ -16614,6 +17062,31 @@
                                                         "index": "3"
                                                     }
                                                 ]
+                                            },
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
                                             }
                                         }
                                     }
@@ -16676,7 +17149,8 @@
                                         "publicId": "8",
                                         "source": "",
                                         "additional": {
-                                            "originHash": "26b5600591ba238fbcf5109847db6d02"
+                                            "originHash": "26b5600591ba238fbcf5109847db6d02",
+                                            "subtype": "9"
                                         }
                                     }
                                 ]
@@ -16846,6 +17320,20 @@
                                         "additional": ""
                                     }
                                 ]
+                            },
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "1555",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1648317895627349:8702244",
+                                "fileId": "860",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26589",
+                                "source": "\/Users\/victoriaperez\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioQzzFPbfwBFxm\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
                             }
                         ]
                     },
@@ -32034,6 +32522,223 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Fonts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26577",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Staatliches-Regular",
+                                "type": "13",
+                                "subtype": "0",
+                                "resourceId": "1550",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1648317890834679:8701710",
+                                "fileId": "850",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26578",
+                                "source": "\/Users\/victoriaperez\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioQzzFPbfwBFxm\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Examples Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26579",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "World Object 3D Text Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26580",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "WorldObjectController",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26581",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Materials",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26582",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "touch_collision",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "1551",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1648317891407317:8701774",
+                                                        "fileId": "851",
+                                                        "originalId": "852",
+                                                        "publicId": "26583",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "ground_grid",
+                                                        "type": "2",
+                                                        "subtype": "1",
+                                                        "resourceId": "1552",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1648317892294247:8701839",
+                                                        "fileId": "853",
+                                                        "originalId": "854",
+                                                        "publicId": "26584",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "isUnpackedInPublic": "false"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26585",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "hello_world",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "1553",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1648317893445678:8701997",
+                                                "fileId": "855",
+                                                "originalId": "856",
+                                                "publicId": "26586",
+                                                "source": "",
+                                                "additional": {
+                                                    "isUnpackedInPublic": "false"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26587",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "polka",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "1554",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1648317893755769:8702208",
+                                                "fileId": "857",
+                                                "originalId": "858",
+                                                "publicId": "26588",
+                                                "source": "\/Users\/victoriaperez\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioQzzFPbfwBFxm\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "4f2829908dc84cb6fe490bfb44f98288",
+                                                    "subtype": "9"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "World Object 3D Text Example",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "1556",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1648318016247728:8957732",
+                        "fileId": "862",
+                        "originalId": "863",
+                        "publicId": "26590",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Text3D Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "1557",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1648318877820473:9810604",
+                        "fileId": "864",
+                        "originalId": "865",
+                        "publicId": "26591",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -32041,7 +32746,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1648308209267425:4710242"
+                    "1648310761105243:6636775"
                 ]
             }
         },
@@ -40085,6 +40790,34 @@
                         },
                         "uncompressed_file": "848",
                         "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1648317893755769:8702208",
+                    "v": {
+                        "infos": {
+                            "originalSize": "49753",
+                            "compressedSize": "47104",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "859",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "4f2829908dc84cb6fe490bfb44f98288",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "861"
+                            }
+                        ]
                     }
                 }
             ]
