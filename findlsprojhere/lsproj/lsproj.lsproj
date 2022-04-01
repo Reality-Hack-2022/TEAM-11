@@ -3,7 +3,7 @@
     "document_id": "zq-1xIrk-rJx8IsDKV2o",
     "original_document_id": "FJcaYEcen5E-40u1zFuJ",
     "version": "29",
-    "lastChanged": "1648772383973",
+    "lastChanged": "1648772736690",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -9899,15 +9899,15 @@
                     },
                     {
                         "k": "10",
-                        "v": "ca73c6edc7de8714926f6b1c65e92952"
+                        "v": "cba72620b5dace145621a4d39092d874"
                     },
                     {
                         "k": "11",
-                        "v": "ec52812f4a1183222572c76f492278c0"
+                        "v": "327e63def491c36780618bcf941933ed"
                     },
                     {
                         "k": "12",
-                        "v": "fb4e176cd290f23369a05ebf6e7b1ccf"
+                        "v": "d8bd1bb584e6f6fcffa724853789aedd"
                     },
                     {
                         "k": "13",
@@ -10199,7 +10199,7 @@
                     },
                     {
                         "k": "12897",
-                        "v": "b6a0f935b2316db1ceac4e93626e2855"
+                        "v": "57422c2ec48e3d0f700c8293d806c983"
                     },
                     {
                         "k": "12899",
@@ -10219,7 +10219,7 @@
                     },
                     {
                         "k": "12905",
-                        "v": "014601b4078d258c0286ce3c92c27485"
+                        "v": "be4f3af9a34c49a1060782e93b5e44a9"
                     },
                     {
                         "k": "12906",
@@ -10387,7 +10387,7 @@
                     },
                     {
                         "k": "12973",
-                        "v": "98a0ea292a97fd6d843d75a1d84ed3fe"
+                        "v": "aae57470b51cfeb0ffda99d9b5fcb30b"
                     },
                     {
                         "k": "12975",
@@ -10415,7 +10415,7 @@
                     },
                     {
                         "k": "12988",
-                        "v": "3f6bedd7616cf7d31e5a913fe5235779"
+                        "v": "3b9669a7f15a3f0dc5abc95727bfc0bd"
                     },
                     {
                         "k": "12989",
@@ -10431,15 +10431,15 @@
                     },
                     {
                         "k": "12995",
-                        "v": "dad237417a4e7c75ca9efc81b9a99374"
+                        "v": "6687c86adc0233bddbe1687bcae28c16"
                     },
                     {
                         "k": "12996",
-                        "v": "feeb73299024f2660de22889a0cf80a9"
+                        "v": "96ca3c89fcabd028714c5409749e304b"
                     },
                     {
                         "k": "12997",
-                        "v": "798705de002df3b6a57bc2a3db85c8c6"
+                        "v": "e16ffe3db09c3cafbe1606a1e92d9e1b"
                     },
                     {
                         "k": "12998",
@@ -10451,7 +10451,7 @@
                     },
                     {
                         "k": "13003",
-                        "v": "6e17811e00d94aa61512469fef4247cf"
+                        "v": "65c1ee0459b0bda78dbd5f4808c8d4e0"
                     },
                     {
                         "k": "13004",
@@ -10575,11 +10575,11 @@
                     },
                     {
                         "k": "26584",
-                        "v": "fc7057f489447429edec34c6d0b46911"
+                        "v": "36e967795baa839c334f508e6dc7200e"
                     },
                     {
                         "k": "26586",
-                        "v": "4d6e297554d4cbe35eec1d93be8d5b82"
+                        "v": "c31e3394ca90f6b2c1d1c046c11c9aea"
                     },
                     {
                         "k": "26588",
@@ -10595,7 +10595,7 @@
                     },
                     {
                         "k": "26591",
-                        "v": "8ad2f1a80e461b17376f9d44b713c7f3"
+                        "v": "c1c85c4168b542afdf57b545619a9367"
                     },
                     {
                         "k": "26674",
@@ -10669,15 +10669,15 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-03-31T20:06:17",
+                        "lastModified": "2022-03-31T20:19:39",
                         "name": "Public",
-                        "hash": "d5facf2264974a8cdeb2a2f2cdf9e1ef",
+                        "hash": "9b493e7f235361c4bd73268267837def",
                         "children": [
                             {
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "Butterfly",
-                                "hash": "25a5110df63dcfbc0b64e786bae5993c",
+                                "hash": "91d8c8518e047c7490e7b87e40f992ab",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -10703,15 +10703,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-31T20:06:14",
+                                        "lastModified": "2022-03-31T20:19:37",
                                         "name": "Material [EDIT ME]",
-                                        "hash": "9f568f6cf51b62b475a2aa766a32cd42",
+                                        "hash": "e6a95ee54f5b6da596933b06899c1770",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:14",
+                                                "lastModified": "2022-03-31T20:19:37",
                                                 "name": "Wing.lsmat",
-                                                "hash": "99e15380861a922886b52f52bac0370e",
+                                                "hash": "b6a0f935b2316db1ceac4e93626e2855",
                                                 "children": ""
                                             },
                                             {
@@ -11005,7 +11005,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "Cloud VFX Resources",
-                                "hash": "23b976e8054e313e32443da6cb024977",
+                                "hash": "028a954c705cbfb7b318b4a043323648",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -11046,15 +11046,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-31T20:06:15",
+                                        "lastModified": "2022-03-31T20:19:37",
                                         "name": "VFX",
-                                        "hash": "b185dc7e55c2e0d314fbda1fbb78561f",
+                                        "hash": "f456803dc1ad1b08f40bf1a5245062ff",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:15",
+                                                "lastModified": "2022-03-31T20:19:37",
                                                 "name": "clouds_vfx.lsvfx",
-                                                "hash": "90e2097842deb3c305f6051d8eccc8d4",
+                                                "hash": "3f6bedd7616cf7d31e5a913fe5235779",
                                                 "children": ""
                                             },
                                             {
@@ -11077,15 +11077,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-31T20:06:14",
+                                "lastModified": "2022-03-31T20:19:37",
                                 "name": "Other",
-                                "hash": "ff4099afbe327ccb80a1b036a6c1d0dc",
+                                "hash": "11b7e72c6e3254356fb9ce5854a36ef2",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-31T20:06:14",
+                                        "lastModified": "2022-03-31T20:19:36",
                                         "name": "Graph Occluder.lsmat",
-                                        "hash": "c408fb17ed8e1f766c5fe57c301f90e2",
+                                        "hash": "014601b4078d258c0286ce3c92c27485",
                                         "children": ""
                                     },
                                     {
@@ -11310,7 +11310,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "WorldObjectController",
-                                "hash": "a083f186267b931a96f4389f8bc6ccaf",
+                                "hash": "a412820a0ba017bdb60fb50a01b9b067",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -11336,29 +11336,29 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-31T20:06:14",
+                                        "lastModified": "2022-03-31T20:19:36",
                                         "name": "Materials",
-                                        "hash": "76c397106a23fd299079554ebb27d8b2",
+                                        "hash": "76630466e257823b61c01dd8f76482cf",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:13",
+                                                "lastModified": "2022-03-31T20:19:36",
                                                 "name": "ground_grid.lsmat",
-                                                "hash": "e93d55992861f0dd634c87019084daaa",
+                                                "hash": "ca73c6edc7de8714926f6b1c65e92952",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:14",
+                                                "lastModified": "2022-03-31T20:19:36",
                                                 "name": "touch_collision.lsmat",
-                                                "hash": "9f889ea869ef10b634302865df514ce6",
+                                                "hash": "fb4e176cd290f23369a05ebf6e7b1ccf",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:13",
+                                                "lastModified": "2022-03-31T20:19:36",
                                                 "name": "graph_matte_shadow.lsmat",
-                                                "hash": "34a8704e84f1d762ff0bc4148de697ca",
+                                                "hash": "ec52812f4a1183222572c76f492278c0",
                                                 "children": ""
                                             },
                                             {
@@ -11448,13 +11448,13 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "Examples Resources",
-                                "hash": "f9d83549ea34b31b787a1cc304e954cd",
+                                "hash": "e31f9360ff502abefdb7bfa341691961",
                                 "children": [
                                     {
                                         "isFolder": "true",
                                         "lastModified": "2022-03-31T18:13:44",
                                         "name": "World Object 3D Text Example",
-                                        "hash": "59f0155c7baac94dd204cf5840b9c5c5",
+                                        "hash": "79024dffb7d246ee9437cb216b840718",
                                         "children": [
                                             {
                                                 "isFolder": "true",
@@ -11480,15 +11480,15 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-31T20:06:17",
+                                                "lastModified": "2022-03-31T20:19:39",
                                                 "name": "Materials",
-                                                "hash": "b637b92e148ff31e24c36f9ebe3dbd47",
+                                                "hash": "6486d1803718374bd5acacc4bea46d35",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-31T20:06:17",
+                                                        "lastModified": "2022-03-31T20:19:39",
                                                         "name": "hello_world.lsmat",
-                                                        "hash": "7ddf51ee6b122f9a6be2141502cb7138",
+                                                        "hash": "4d6e297554d4cbe35eec1d93be8d5b82",
                                                         "children": ""
                                                     },
                                                     {
@@ -11504,19 +11504,19 @@
                                                 "isFolder": "true",
                                                 "lastModified": "2022-03-31T18:13:44",
                                                 "name": "WorldObjectController",
-                                                "hash": "ff9c153f175a85161614c09d6add0559",
+                                                "hash": "b75e637ebf2929c96b18f5677abfe5a0",
                                                 "children": [
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2022-03-31T20:06:17",
+                                                        "lastModified": "2022-03-31T20:19:39",
                                                         "name": "Materials",
-                                                        "hash": "b3f76208c15f36ba6bb73044ee2c13cc",
+                                                        "hash": "6f38c6c61e6f14a46d830e48dc12da8d",
                                                         "children": [
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-31T20:06:17",
+                                                                "lastModified": "2022-03-31T20:19:38",
                                                                 "name": "ground_grid.lsmat",
-                                                                "hash": "cbe86ca232d7ebcf2e94f23b922ea790",
+                                                                "hash": "fc7057f489447429edec34c6d0b46911",
                                                                 "children": ""
                                                             },
                                                             {
@@ -11667,7 +11667,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "Fountain VFX Resources",
-                                "hash": "ebcd0699fc2dca30f34edb6670802108",
+                                "hash": "a3b922e9bebab406305c02e95e78fa95",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -11700,29 +11700,29 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-31T20:06:16",
+                                        "lastModified": "2022-03-31T20:19:38",
                                         "name": "VFX",
-                                        "hash": "754709a7c85ede92a0f4d3f878350b3a",
+                                        "hash": "f44cc43c9efb4c4c34dee709091aa352",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:16",
+                                                "lastModified": "2022-03-31T20:19:38",
                                                 "name": "fountain_splash_vfx.lsvfx",
-                                                "hash": "cbc79f6ffe8b9cd6c01ff0a48b385dff",
+                                                "hash": "feeb73299024f2660de22889a0cf80a9",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:16",
+                                                "lastModified": "2022-03-31T20:19:38",
                                                 "name": "fountain_waterdrop_vfx.lsvfx",
-                                                "hash": "15cb924eb4a2a4847b092eb431fb1feb",
+                                                "hash": "798705de002df3b6a57bc2a3db85c8c6",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:15",
+                                                "lastModified": "2022-03-31T20:19:37",
                                                 "name": "fountain_distortion_vfx.lsvfx",
-                                                "hash": "492d569f9ff7dc7900409c9281b6599a",
+                                                "hash": "dad237417a4e7c75ca9efc81b9a99374",
                                                 "children": ""
                                             },
                                             {
@@ -11747,7 +11747,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "Smoke VFX Resources",
-                                "hash": "1a9d33492c2114a94c15433542045209",
+                                "hash": "aa7ae20bd053da9ccee5321ca67b4649",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -11773,15 +11773,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-31T20:06:16",
+                                        "lastModified": "2022-03-31T20:19:38",
                                         "name": "VFX",
-                                        "hash": "f66d12ad1361c23a82fe85132713ec1f",
+                                        "hash": "488afa713313500245d2357aee01e17c",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:16",
+                                                "lastModified": "2022-03-31T20:19:38",
                                                 "name": "smoke_vfx.lsvfx",
-                                                "hash": "df675319b42b7fa8bef5798cad008c69",
+                                                "hash": "6e17811e00d94aa61512469fef4247cf",
                                                 "children": ""
                                             },
                                             {
@@ -11826,9 +11826,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-03-31T20:06:17",
+                                "lastModified": "2022-03-31T20:19:39",
                                 "name": "Text3D Default.lsmat",
-                                "hash": "e63daf7ae63fc0f66443caa1ce7d8242",
+                                "hash": "8ad2f1a80e461b17376f9d44b713c7f3",
                                 "children": ""
                             },
                             {
@@ -12150,7 +12150,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-31T18:13:44",
                                 "name": "SDF Glitter Resources",
-                                "hash": "94da0403bad8c7373c283bb30b13acd3",
+                                "hash": "2277575e13904226a12bd0fdcd2d5ba3",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -12176,15 +12176,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-31T20:06:15",
+                                        "lastModified": "2022-03-31T20:19:37",
                                         "name": "VFX",
-                                        "hash": "27189e11e58cf379e3d3576cbcce5d80",
+                                        "hash": "9cc389866d1e9c0f3f23f75a1c2c4bdf",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-31T20:06:15",
+                                                "lastModified": "2022-03-31T20:19:37",
                                                 "name": "VFX SDF Glitter.lsvfx",
-                                                "hash": "3d56e0542202d94da2a13c2dd4b3a5ac",
+                                                "hash": "98a0ea292a97fd6d843d75a1d84ed3fe",
                                                 "children": ""
                                             },
                                             {
